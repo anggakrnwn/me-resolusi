@@ -1,0 +1,5 @@
+rencana learn
+- improve css(bootstrap, tailwind)
+- improve js
+- react js
+- learn scholarship MEVN
